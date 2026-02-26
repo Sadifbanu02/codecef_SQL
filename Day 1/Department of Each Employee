@@ -1,3 +1,0 @@
-select department,count(*) as total_employees
-from Employees
-group by department;
