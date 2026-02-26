@@ -1,0 +1,5 @@
+select P.player_name,P.score
+from Players p inner join Matches M on 
+P.player_name=M.winner
+group by player_name
+order by score desc;
