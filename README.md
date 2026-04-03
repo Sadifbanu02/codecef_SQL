@@ -14,7 +14,7 @@ The purpose of this repository is to strengthen my SQL knowledge and prepare for
 
 ## 🎯 Objectives            
 
-* Practice SQL queries regularly
+* Practice SQL queries regularly       
 * Improve problem-solving using SQL
 * Learn real-world database scenarios
 * Prepare for coding interviews and technical assessments
