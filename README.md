@@ -2,7 +2,7 @@ Here is a **professional README.md for your main SQL repository** based on your 
 
 ---
 
-# 📊 CodeChef SQL Practice Repository
+# 📊 CodeChef SQL Practice Repository          
 
 ## 📌 Overview                       
 
