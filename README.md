@@ -12,7 +12,7 @@ The purpose of this repository is to strengthen my SQL knowledge and prepare for
 
 ---
 
-## 🎯 Objectives            
+## 🎯 Objectives                      
 
 * Practice SQL queries regularly       
 * Improve problem-solving using SQL
