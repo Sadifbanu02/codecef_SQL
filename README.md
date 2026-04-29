@@ -1,6 +1,6 @@
 Here is a **professional README.md for your main SQL repository** based on your GitHub structure and SQL problem folders ([GitHub][1])
 
----
+---        
 
 # 📊 CodeChef SQL Practice Repository          
 
