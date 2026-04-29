@@ -3,7 +3,7 @@ Here is a **professional README.md for your main SQL repository** based on your 
 ---        
 
 # 📊 CodeChef SQL Practice Repository          
-
+          
 ## 📌 Overview                              
 
 This repository contains my SQL practice solutions completed as part of improving my database and query skills. It includes multiple SQL problems covering fundamental to intermediate concepts such as data retrieval, filtering, aggregation, and analysis.
