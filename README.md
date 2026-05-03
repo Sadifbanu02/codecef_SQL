@@ -9,7 +9,7 @@ Here is a **professional README.md for your main SQL repository** based on your 
 This repository contains my SQL practice solutions completed as part of improving my database and query skills. It includes multiple SQL problems covering fundamental to intermediate concepts such as data retrieval, filtering, aggregation, and analysis.
 
 The purpose of this repository is to strengthen my SQL knowledge and prepare for technical interviews and real-world database applications.
-
+             
 ---
 
 ## 🎯 Objectives                      
